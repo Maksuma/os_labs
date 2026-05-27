@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "name": "WSL",
+      "includePath": ["${workspaceFolder}/**"],
+      "defines": [],
+      "compilerPath": "C:/Users/Maksumas/scoop/apps/gcc/current/bin/gcc.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ],
+  "version": 4
+}

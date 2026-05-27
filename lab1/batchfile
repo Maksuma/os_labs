@@ -1,0 +1,4 @@
+echo Начинаю работу
+cd /dsadasd
+dir
+echo Готово
